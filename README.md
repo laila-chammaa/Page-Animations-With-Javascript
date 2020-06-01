@@ -1,4 +1,4 @@
 created some animations with GSAP
 
 
-![](animation-gif.gif)
+![](animation gif.gif)
